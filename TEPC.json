@@ -2081,6 +2081,261 @@
         "water": 325.0,
         "soil": 325.0
       }
-    }
+    },
+    {
+      "id": "railcraft:coke_oven",
+      "emission": {
+        "air": 250.0,
+        "water": 12.0,
+        "soil": 45.0
+      }
+    },
+    {
+      "id": "railcraft:blast_furnace",
+      "emission": {
+        "air": 220.0,
+        "water": 12.0,
+        "soil": 47.0
+      }
+    },
+    {
+      "id": "railcraft:boiler_tank_pressure_high",
+      "emission": {
+        "air": 150.0,
+        "water": 50.0,
+        "soil": 50.0
+      }
+    },
+    {
+      "id": "railcraft:boiler_tank_pressure_low",
+      "emission": {
+        "air": 150.0,
+        "water": 50.0,
+        "soil": 50.0
+      }
+    },
+    {
+      "id": "railcraft:boiler_firebox_solid",
+      "emission": {
+        "air": 120.0,
+        "water": 25.0,
+        "soil": 80.0
+      }
+    },
+    {
+      "id": "railcraft:boiler_firebox_liquid",
+      "emission": {
+        "air": 80.0,
+        "water": 50.0,
+        "soil": 120.0
+      }
+    },
+    {
+      "id": "pyrotech:tile.tilekilnpit",
+      "emission": {
+        "air": 75.0,
+        "water": 15.0,
+        "soil": 50.0
+      }
+    },
+    {
+      "id": "pyrotech:tile.tilebloomery",
+      "emission": {
+        "air": 150.0,
+        "water": 10.0,
+        "soil": 25.0
+      }
+    },
+    {
+      "id": "pyrotech:tile.tilebloomery",
+      "emission": {
+        "air": 200.0,
+        "water": 20.0,
+        "soil": 45.0
+      }
+    },
+    {
+      "id": "pyrotech:tile.tilecampfire",
+      "emission": {
+        "air": 25.0,
+        "water": 15.0,
+        "soil": 20.0
+      }
+    },
+    {
+      "id": "pyrotech:tile.tilestonekiln",
+      "emission": {
+        "air": 50.0,
+        "water": 20.0,
+        "soil": 30.0
+      }
+    },
+    {
+      "id": "pyrotech:tile.tilestoneoven",
+      "emission": {
+        "air": 50.0,
+        "water": 20.0,
+        "soil": 30.0
+      }
+    },
+    {
+      "id": "pyrotech:tile.tilestonecrucible",
+      "emission": {
+        "air": 50.0,
+        "water": 20.0,
+        "soil": 30.0
+      }
+    },
+    {
+      "id": "pyrotech:tile.tilestonesawmill",
+      "emission": {
+        "air": 50.0,
+        "water": 20.0,
+        "soil": 30.0
+      }
+    },
+    {
+      "id": "pyrotech:tile.tilebrickoven",
+      "emission": {
+        "air": 80.0,
+        "water": 30.0,
+        "soil": 40.0
+      }
+    },
+    {
+      "id": "pyrotech:tile.tilebrickcrucible",
+      "emission": {
+        "air": 80.0,
+        "water": 30.0,
+        "soil": 40.0
+      }
+    },
+    {
+      "id": "pyrotech:tile.tilebricksawmill",
+      "emission": {
+        "air": 80.0,
+        "water": 30.0,
+        "soil": 40.0
+      }
+    },
+    {
+      "id": "pyrotech:tile.tilebrickkiln",
+      "emission": {
+        "air": 80.0,
+        "water": 30.0,
+        "soil": 40.0
+      }
+    },
+    {
+      "id": "immersivepetroleum:distillationtower",
+      "emission": {
+        "air": 0.0,
+        "water": 75.0,
+        "soil": 75.0
+      }
+    },
+    {
+      "id": "questionabllyimmersive:cokeovenbattery",
+      "emission": {
+        "air": 1100.0,
+        "water": 24.0,
+        "soil": 60.0
+      }
+    },
+    {
+      "id": "engineersdecor:te_small_lab_furnace",
+      "emission": {
+        "air": 150.0,
+        "water": 10.0,
+        "soil": 25.0
+      }
+    },
+    {
+      "id": "engineersdecor:small_mineral_smelter",
+      "emission": {
+        "air": 150.0,
+        "water": 10.0,
+        "soil": 25.0
+      }
+    },
+    {
+      "id": "engineersdecor:small_electric_furnace",
+      "emission": {
+        "air": 150.0,
+        "water": 10.0,
+        "soil": 25.0
+      }
+    },
+    {
+      "id": "engineersdecor:small_waste_incinerator",
+      "emission": {
+        "air": 200.0,
+        "water": 5.0,
+        "soil": 40.0
+      }
+    },
+    {
+      "id": "magneticraft:big_steam_boiler",
+      "emission": {
+        "air": 0.0,
+        "water": 200.0,
+        "soil": 80.0
+      }
+    },
+    {
+      "id": "magneticraft:steam_boiler",
+      "emission": {
+        "air": 0.0,
+        "water": 60.0,
+        "soil": 40.0
+      }
+    },
+    {
+      "id": "magneticraft:electric_furnace",
+      "emission": {
+        "air": 25.0,
+        "water": 150.0,
+        "soil": 50.0
+      }
+    },
+    {
+      "id": "magneticraft:brick_furnace",
+      "emission": {
+        "air": 25.0,
+        "water": 150.0,
+        "soil": 50.0
+      }
+    },
+    {
+      "id": "magneticraft:big_electric_furnace",
+      "emission": {
+        "air": 50.0,
+        "water": 100.0,
+        "soil": 30.0
+      }
+    },
+    {
+      "id": "magneticraft:refinery",
+      "emission": {
+        "air": 0.0,
+        "water": 75.0,
+        "soil": 75.0
+      }
+    },
+    {
+      "id": "magneticraft:steam_engine",
+      "emission": {
+        "air": 150.0,
+        "water": 60.0,
+        "soil": 20.0
+      }
+    },
+    {
+      "id": "magneticraft:oil_heater",
+      "emission": {
+        "air": 300.0,
+        "water": 40.0,
+        "soil": 30.0
+      }
   ]
 }
